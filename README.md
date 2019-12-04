@@ -8,7 +8,7 @@ NodePong is a simple NodeJS application for playing to the Pong game in web brow
 
 ## Usage
 
-After downloading NodeJS, you can simply start the server when you are in the root path using in a terminal :
+After downloading Node.js, you can simply start the server when you are in the root path using in a terminal :
 
 ```
 node server.js
